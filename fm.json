@@ -119,11 +119,11 @@
       "backup_ads": "none",
       "ads_unit_id": {
          "admob": {
-            "publisher_id": "pub-3940256099942544",
-            "app_open_id": "ca-app-pub-3940256099942544/3419835294",
-            "banner_id": "ca-app-pub-3940256099942544/6300978111",
-            "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
-            "native_id": "ca-app-pub-3940256099942544/2247696110"
+            "publisher_id": "pub-3450502813264093",
+            "app_open_id": "ca-app-pub-3450502813264093/1038882448",
+            "banner_id": "ca-app-pub-3450502813264093/7589282731",
+            "interstitial_id": "ca-app-pub-3450502813264093/7596815734",
+            "native_id": "ca-app-pub-3450502813264093/2992146496"
          },
          "google_ad_manager": {
             "app_open_id": "/6499/example/app-open",
@@ -178,7 +178,7 @@
          "native_post_list": true,
          "native_post_details": true,
          "app_open_ad_on_start": true,
-         "app_open_ad_on_resume": true
+         "app_open_ad_on_resume": false
       },
       "global": {
          "interstitial_ad_interval": 3,
