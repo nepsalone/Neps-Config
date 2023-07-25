@@ -10,6 +10,16 @@
       "categories_per_page": 24,
       "max_related_posts": 5
    },
+     "radio": {
+      "radio_name": "Swadesh FM",
+      "radio_genre": "93.2 MHz",
+      "radio_url": "http://streaming.hamropatro.com:8653/stream/1/",
+      "radio_image_url": "https://raw.githubusercontent.com/nepsalone/Neps-Config/main/SwadeshLogo.png",
+      "background_image_url": "https://liveonlineradio.net/wp-content/uploads/2018/08/swadesh-fm.jpg",
+      "song_metadata": "true",
+      "image_album_art": "true",
+      "auto_play": "false"
+    },
    "settings": {
       "more_apps_url": "https://play.google.com/store/apps/developer?id=Solodroid",
       "privacy_policy_url": "https://example.com/privacy-policy.html",
@@ -187,5 +197,81 @@
          "native_ad_style_post_details": "large",
          "native_ad_post_details_position": "bottom"
       }
-   }
+   },
+    "team_profile": {
+    "status": false,
+    "profiles": [
+    {
+      "profile_name": "Dev Narayan Shah",
+      "profile_image": "https://swadeshinfosys.com.np/wp-content/uploads/2016/12/Dev-Anjaan-Shah.jpg",
+      "profile_post": "Chairmen",
+      "profile_info": "hello im Dev Anjan Shah chairmen of Swadesh FM Lorem ipsum dolor sit amet. Swadesh swadesh fm swadesh swadesh swadesh. Fm swadesh!",
+      "profile_facebook": "https://www.facebook.com/DevAnjaan.Shah",
+      "profile_twitter": "https://twitter.com/@dnanjan",
+      "profile_mobile": "00977-9851046375",
+      "profile_email": "fm.swadesh@gmail.com"
+
+    },
+    {
+      "profile_name": "Lila Ballabh Bhurtel",
+      "profile_image": "https://avatars.githubusercontent.com/u/46861971?v=4",
+      "profile_post": "IT Support",
+      "profile_info": "hello im Lila Ballabh Bhurtel Devloper & Designer of Swadesh FM Mobile Application",
+      "profile_facebook": "https://facebook.com/lilaballabh",
+      "profile_twitter": "https://twitter.com/@lilablove",
+      "profile_mobile": "0097798068MTJ12",
+      "profile_email": "nepsalone@gmail.com"
+    },
+    {
+      "profile_name": "Surya Man Shah",
+      "profile_image": "https://raw.githubusercontent.com/nepsalone/Neps-Config/main/surya.jpg",
+      "profile_post": "Technician",
+      "profile_info": "hell im Surya Man Shah Technician of Swadesh FM",
+      "profile_facebook": "https://facebook.com/xxxx",
+      "profile_twitter": "https://twitter.com/@xxx",
+      "profile_mobile": "0097798068MTJ12",
+      "profile_email": "demo@gmail.com"
+    },
+    {
+      "profile_name": "Sharmila Lamichhane",
+      "profile_image": "https://raw.githubusercontent.com/nepsalone/Neps-Config/main/sharmila.jpg",
+      "profile_post": "RJ",
+      "profile_info": "hell im Sharmila Lamichhane Rj of Swadesh FM",
+      "profile_facebook": "https://facebook.com/xxxx",
+      "profile_twitter": "https://twitter.com/@xxx",
+      "profile_mobile": "0097798068MTJ12",
+      "profile_email": "demo@gmail.com"
+    },
+    {
+      "profile_name": "Dipti Bishowkarma",
+      "profile_image": "https://palikakhabar.saviskarcdn.net/media/writer/122807423_2403473173130388_2240397126559252695_n.jpg",
+      "profile_post": "RJ",
+      "profile_info": "hell im Dipti Bishowkarma RJ of Swadesh FM",
+      "profile_facebook": "https://facebook.com/xxxx",
+      "profile_twitter": "https://twitter.com/@dnanjan",
+      "profile_mobile": "0097798068MTJ12",
+      "profile_email": "demo@gmail.com"
+    },
+    {
+      "profile_name": "Sreeja Thapa",
+      "profile_image": "https://raw.githubusercontent.com/nepsalone/Neps-Config/main/shreeja.jpg",
+      "profile_post": "RJ",
+      "profile_info": "A cheering and hardworking news person, also having to much knowledge of Bollywood world",
+      "profile_facebook": "https://facebook.com/xxxx",
+      "profile_twitter": "https://twitter.com/@xxx",
+      "profile_mobile": "0097798068MTJ12",
+      "profile_email": "demo@gmail.com"
+    },
+    {
+      "profile_name": "Dev Narayan Shah",
+      "profile_image": "http://lilaballabh.com.np/wp-content/uploads/2016/06/Facebook-Profile-Picture.jpg",
+      "profile_post": "Chairmen",
+      "profile_info": "hell im Dev Anjan Shah chairmen of Swadesh FM",
+      "profile_facebook": "https://facebook.com/xxxx",
+      "profile_twitter": "https://twitter.com/@xxxx",
+      "profile_mobile": "0097798068MTJ12",
+      "profile_email": "demo@gmail.com"
+    }
+  ]
+	}
 }
