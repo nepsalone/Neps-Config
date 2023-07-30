@@ -198,8 +198,6 @@
          "native_ad_post_details_position": "bottom"
       }
    },
-    "custom_profile": {
-    "status": true,
     "profiles": [
     {
       "profile_name": "Dev Narayan Shah",
@@ -264,5 +262,4 @@
     }
 
   ]
-    }
 }
