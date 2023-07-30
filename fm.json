@@ -198,8 +198,6 @@
          "native_ad_post_details_position": "bottom"
       }
    },
-    "team_profile": {
-    "status": false,
     "profiles": [
     {
       "profile_name": "Dev Narayan Shah",
@@ -261,17 +259,7 @@
       "profile_twitter": "https://twitter.com/@xxx",
       "profile_mobile": "0097798068MTJ12",
       "profile_email": "demo@gmail.com"
-    },
-    {
-      "profile_name": "Dev Narayan Shah",
-      "profile_image": "http://lilaballabh.com.np/wp-content/uploads/2016/06/Facebook-Profile-Picture.jpg",
-      "profile_post": "Chairmen",
-      "profile_info": "hell im Dev Anjan Shah chairmen of Swadesh FM",
-      "profile_facebook": "https://facebook.com/xxxx",
-      "profile_twitter": "https://twitter.com/@xxxx",
-      "profile_mobile": "0097798068MTJ12",
-      "profile_email": "demo@gmail.com"
     }
+
   ]
-	}
 }
