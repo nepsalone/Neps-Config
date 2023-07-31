@@ -23,7 +23,7 @@
    "settings": {
       "more_apps_url": "https://play.google.com/store/apps/developer?id=Neps+iTech+Solution",
       "privacy_policy_url": "https://raw.githubusercontent.com/nepsalone/Neps-Config/main/privacy_policy.html",
-      "terms_conditions_url": "https://example.com/terms.html",
+      "terms_conditions_url": "https://raw.githubusercontent.com/nepsalone/Neps-Config/main/radio_shedule.html",
       "publisher_info_url": "https://example.com/publisher-info.html",
       "email_feedback_and_report": "fm.swadesh@gmail.com",
       "category_column_count": 3,
