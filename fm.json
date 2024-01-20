@@ -127,8 +127,8 @@
       ]
    },
    "ads": {
-      "status": true,
-      "main_ads": "admob",
+      "status": false,
+      "main_ads": "none",
       "backup_ads": "none",
       "ads_unit_id": {
          "admob": {
