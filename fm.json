@@ -129,7 +129,7 @@
    "ads": {
       "status": false,
       "main_ads": "none",
-      "backup_ads": "none",
+      "backup_ads": "facebook",
       "ads_unit_id": {
          "admob": {
             "publisher_id": "pub-3450502813264093",
@@ -145,9 +145,9 @@
             "native_id": "/6499/example/native"
          },
          "facebook": {
-            "banner_id": "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
-            "interstitial_id": "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
-            "native_id": "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224"
+            "banner_id": "1152564079239626_1152565712572796",
+            "interstitial_id": "1152564079239626_1152565875906113",
+            "native_id": "1152564079239626_1152565955906105"
          },
          "applovin_max": {
             "app_open_id": "0",
@@ -182,7 +182,7 @@
          }
       },
       "placement": {
-         "banner_home": true,
+         "banner_home": false,
          "banner_post_details": true,
          "banner_category_details": true,
          "banner_search": true,
