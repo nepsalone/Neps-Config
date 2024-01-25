@@ -127,9 +127,9 @@
       ]
    },
    "ads": {
-      "status": false,
-      "main_ads": "none",
-      "backup_ads": "facebook",
+      "status": true,
+      "main_ads": "facebook",
+      "backup_ads": "none",
       "ads_unit_id": {
          "admob": {
             "publisher_id": "pub-3450502813264093",
