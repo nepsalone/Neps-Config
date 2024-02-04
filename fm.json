@@ -129,7 +129,7 @@
    "ads": {
       "status": true,
       "main_ads": "facebook",
-      "backup_ads": "none",
+      "backup_ads": "admob",
       "ads_unit_id": {
          "admob": {
             "publisher_id": "pub-3450502813264093",
