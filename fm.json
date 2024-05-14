@@ -128,8 +128,8 @@
    },
    "ads": {
       "status": true,
-      "main_ads": "facebook",
-      "backup_ads": "none",
+      "main_ads": "applovin_max",
+      "backup_ads": "fan",
       "ads_unit_id": {
          "admob": {
             "publisher_id": "pub-3450502813264093",
