@@ -129,7 +129,7 @@
    "ads": {
       "status": true,
       "main_ads": "applovin_max",
-      "backup_ads": "none",
+      "backup_ads": "fan",
       "ads_unit_id": {
          "admob": {
             "publisher_id": "pub-3450502813264093",
@@ -196,7 +196,7 @@
       "global": {
          "interstitial_ad_interval": 3,
          "native_ad_index": 3,
-         "native_ad_style_post_list": "medium",
+         "native_ad_style_post_list": "large",
          "native_ad_style_post_details": "large",
          "native_ad_post_details_position": "bottom"
       }
