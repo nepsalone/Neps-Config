@@ -182,12 +182,12 @@
          }
       },
       "placement": {
-         "banner_home": false,
+         "banner_home": true,
          "banner_post_details": true,
          "banner_category_details": true,
          "banner_search": true,
          "interstitial_post_list": false,
-         "interstitial_post_details": false,
+         "interstitial_post_details": true,
          "native_post_list": true,
          "native_post_details": true,
          "app_open_ad_on_start": false,
@@ -276,6 +276,7 @@
 
   ]
 }
+
 
 
 
